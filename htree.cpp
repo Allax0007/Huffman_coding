@@ -8,8 +8,8 @@ using namespace std;
 
 class node{
     public:
-    char val;   //值
-    int freq;   //次數
+    char val;   //value
+    int freq;   //frequency
     node *l;
     node *r;
     
